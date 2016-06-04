@@ -1,6 +1,6 @@
 ##Changes made
 ###Bla bla bla bla bla
-*first
-*second
-*last
+* first
+* second
+* last
 ###bla bla .md file added etc.
